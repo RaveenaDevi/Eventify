@@ -14,7 +14,7 @@ import AddEvent from "./Components/AddEvent";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/Eventify">
         <EventMenu />
         <Routes>
           <Route path="/" element={<Homepage />} />
