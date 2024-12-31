@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Eventify/static/css/main.29b1bd7a.css",
-    "main.js": "/Eventify/static/js/main.95c65e4b.js",
+    "main.js": "/Eventify/static/js/main.7b85b175.js",
     "static/media/event-image-2.jpg": "/Eventify/static/media/event-image-2.77cd37677cc475df2ae8.jpg",
     "static/media/event-image-1.jpg": "/Eventify/static/media/event-image-1.b74ec3c61c4c8b7dbf32.jpg",
     "static/media/event-image-3.jpg": "/Eventify/static/media/event-image-3.6cc4d37fcfc17a22b0bf.jpg",
@@ -9,10 +9,10 @@
     "static/media/3071357.jpg": "/Eventify/static/media/3071357.c0d9fe85a4d6efeb81bb.jpg",
     "index.html": "/Eventify/index.html",
     "main.29b1bd7a.css.map": "/Eventify/static/css/main.29b1bd7a.css.map",
-    "main.95c65e4b.js.map": "/Eventify/static/js/main.95c65e4b.js.map"
+    "main.7b85b175.js.map": "/Eventify/static/js/main.7b85b175.js.map"
   },
   "entrypoints": [
     "static/css/main.29b1bd7a.css",
-    "static/js/main.95c65e4b.js"
+    "static/js/main.7b85b175.js"
   ]
 }
