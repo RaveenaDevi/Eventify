@@ -59,5 +59,3 @@ Eventify is a ReactJS project designed to streamline event management, offering 
 ### Login Page
 
 ![Login Page ](screenshots/login.png "Login Page")
-
-git a
