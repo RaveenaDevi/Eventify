@@ -44,41 +44,21 @@ Eventify is a ReactJS project designed to streamline event management, offering 
 
 ![Home Page](screenshots/Homepage.png "Home Page")
 
-Example Code:
-
-```markdown
-![Home Page](screenshots/home-page.png "Home Page")
-```
-
 ### Event Dashboard
 
-![Event Dashboard](screenshots/event-dashboard.png "Event Dashboard")
-
-Example Code:
-
-```markdown
-![Event Dashboard](screenshots/event-dashboard.png "Event Dashboard")
-```
+![Event Dashboard](screenshots/dashboard.png "Event Dashboard")
 
 ### Event Creation
 
-![Event Creation](screenshots/event-creation.png "Event Creation")
-
-Example Code:
-
-```markdown
-![Event Creation](screenshots/event-creation.png "Event Creation")
-```
+![Add Event](<screenshots/add new.png> "add new")
 
 ### Registration Page
 
-![Registration Page](screenshots/registration-page.png "Registration Page")
+![Registration Page](screenshots/register.png "Registration Page")
 
-Example Code:
+### Login Page
 
-```markdown
-![Registration Page](screenshots/registration-page.png "Registration Page")
-```
+![Login Page ](screenshots/login.png "Login Page")
 
 ## Contribution Guidelines
 
