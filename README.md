@@ -18,25 +18,7 @@ Eventify is a ReactJS project designed to streamline event management, offering 
 - Bootstrap for styling
 - JSON API for backend communication
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/eventify.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd eventify
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Screenshots
 
